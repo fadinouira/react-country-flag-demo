@@ -24,6 +24,7 @@ export default function CountryCodeInput({ value, onChange }: CountryCodeInputPr
 
   return (
     <div className="country-code-input-container">
+      Country:{' '}
       <input
         type="text"
         value={currentValue}
