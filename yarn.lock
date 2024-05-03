@@ -360,10 +360,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.56.0.tgz#ef20350fec605a7f7035a01764731b2de0f3782b"
   integrity sha512-gMsVel9D7f2HLkBma9VbtzZRehRogVRfbr++f06nL2vnCGCNlzOD+/MUov/F4p8myyAHspEhVobgjpX64q5m6A==
 
-"@fadi-ui/react-country-flag@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@fadi-ui/react-country-flag/-/react-country-flag-1.0.4.tgz#15d9f22c0d3024a8950514dc2f3376af69996e23"
-  integrity sha512-G4p7aUyjIL2wgJu4z2MdtRUzpo5LJu2Lon9RwwYDRJpta6LYLHvin2bcjwHEhS7fkgBwCfCWdBH9wRctIpnymQ==
+"@fadi-ui/react-country-flag@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@fadi-ui/react-country-flag/-/react-country-flag-2.0.0.tgz#b77a3191426cfea39d19a7632f5d76e89ca43496"
+  integrity sha512-FMWujc+nI913itCfhM1/L+4kZL2dHkfsGMDXhS33emwySloMziNGfFqyMwVbKJyQL/Oa2Re8UU96m5xn1UvQxg==
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"
