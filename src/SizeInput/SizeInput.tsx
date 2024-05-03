@@ -25,7 +25,7 @@ export default function SizeInput({ value, onChange }: SizeInputProps) {
         type="number"
         value={currentValue}
         onChange={handleChange}
-        placeholder="Enter country code"
+        placeholder="Enter country flag size"
         className={error ? 'error' : ''}
       />
       <div>{error && <span className="error-message">{error}</span>}</div>
